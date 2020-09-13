@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
    argument = ["am"]
-  argument.shift 
+  argument.index
 end
 
 def retrieve_first_element_from_array(array)
